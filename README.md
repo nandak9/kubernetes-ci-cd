@@ -14,7 +14,7 @@ To get it up and running, see the following week-by-week Linux.com blog posts, o
 
 To generate this readme: `node readme.js`
 
-## Prerequisites
+## Prerequisites 
 
 - Install VirtualBox
 
